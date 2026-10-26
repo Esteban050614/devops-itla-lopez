@@ -1,9 +1,9 @@
 # devops-itla-lopez
-Prácticas de DevOps del ITLA
+PrÃ¡cticas de DevOps del ITLA
 
-## Informaci�n del estudiante
+## Información del estudiante
 
-- Nombre: Esteban L�pez Madera
-- Matr�cula: 2024-0036
+- Nombre: Esteban López Madera
+- Matrícula: 2024-0036
 
-Repositorio para las pr�cticas de DevOps del ITLA.
+Repositorio para las prácticas de DevOps del ITLA.
